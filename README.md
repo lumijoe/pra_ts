@@ -2,3 +2,7 @@
 練習用TypeScript実践
 
 ①number.tsとnumber.jsの書き方、エラー表示の違い
+
+# tsのコンパイルをするために
+node.jsでコンパイラをinstall、tsをコンパイル実行、jsを作成する
+
