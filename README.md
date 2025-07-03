@@ -7,4 +7,4 @@
 node.jsでコンパイラをinstall、tsをコンパイル実行、jsを作成する
 targetオプションとwtachオプションで毎回設定しなくて済む方法は、jsonを使用すること
 
-# 
+# number.はエラーを出すためのもの
